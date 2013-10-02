@@ -2704,7 +2704,7 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="R11" library="fab" deviceset="RES-US" device="1206" value="0"/>
 <part name="R12" library="fab" deviceset="RES-US" device="1206" value="0"/>
 <part name="R13" library="fab" deviceset="RES-US" device="1206" value="0"/>
-<part name="C1" library="SparkFun-Capacitors" deviceset="CAP" device="1206" value="220p"/>
+<part name="C1" library="SparkFun-Capacitors" deviceset="CAP" device="1206" value="10u"/>
 <part name="R10" library="fab" deviceset="RES-US" device="1206" value="0"/>
 <part name="R15" library="fab" deviceset="RES-US" device="1206" value="0"/>
 <part name="R14" library="fab" deviceset="RES-US" device="1206" value="0"/>
